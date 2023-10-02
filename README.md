@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I work in the field of Data as a Data Analyst at Vilmorin Jardin in France.
+Currently pursuing a Master Data Analyst work-study program with the PMN school.
 
-I trained in the field with Openclassrooms on a work-study basis.
+I have been working for a year at Vilmorin Jardin as a Data Analyst
 
 I am passionate about data and statistics of all kinds and I also have a degree in Sociology.
