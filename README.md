@@ -8,7 +8,7 @@ Bienvenue sur mon profil GitHub ! Je suis une Data Analyst passionnée par la sc
 - Statistiques
 
 ## 📫 Comment me contacter
-- Email : [alyssa@example.com](mailto:derensy.alyssa@gmail.com)
+- Email : [derensy.alyssa@gmail.com](mailto:derensy.alyssa@gmail.com)
 - LinkedIn : [Alyssa Derensy](https://www.linkedin.com/in/alyssaderensy)
 
 
