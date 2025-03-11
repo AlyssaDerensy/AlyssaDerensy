@@ -13,8 +13,8 @@ Bienvenue sur mon profil GitHub ! Je suis une Data Analyst passionnée par la sc
 
 
 ## Mes outils et technologies préférés
-- **Langages :** Python, SQL
-- **Outils :** Git, Power BI, Jupyter Notebook, Visual studio code
+- **Langages :** Python, SQL, DAX, NoSQL
+- **Outils :** Git, Jupyter Notebook, Visual studio code
 - **Bases de données :** MySQL, MongoDB
 - **Visualisation de données:** Power BI, Excel, Tableau
 
