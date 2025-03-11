@@ -1,6 +1,6 @@
 # Bonjour, je suis Alyssa Derensy ! 
 
-Bienvenue sur mon profil GitHub ! Je suis une Data Analyst passionnée par la science des données et les statistiques. Je suis diplômée d'un DEUG en Sociologie, d'un Bachelor et d'un Mastère en Data Analysis. Basée à Lyon, je travaille sur divers projets de données et d'analyse.
+Bienvenue sur mon profil GitHub ! Je suis une Data Analyst passionnée par la science des données et les statistiques. Je suis diplômée d'un DEUG en Sociologie, d'un Bachelor et d'un Mastère mention Data Analyst. Expérimentée dans la gestion et la visualisation des données, ainsi que dans le développement de solutions analytiques optimisant la prise de décision stratégique. Forte autonomie, esprit analytique et capacité à transformer des données brutes en insights exploitables.
 
 ## Demandez-moi à propos de
 - Analyse de données et visualisation
@@ -14,8 +14,9 @@ Bienvenue sur mon profil GitHub ! Je suis une Data Analyst passionnée par la sc
 
 ## Mes outils et technologies préférés
 - **Langages :** Python, SQL
-- **Outils :** Git, Power BI, Jupyter Notebook, Visual studio code 
+- **Outils :** Git, Power BI, Jupyter Notebook, Visual studio code
 - **Bases de données :** MySQL, MongoDB
+- **Visualisation de données:** Power BI, Excel, Tableau
 
 ---
 
